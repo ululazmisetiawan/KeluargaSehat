@@ -8,9 +8,7 @@ import android.view.ViewGroup;
 
 import com.project.keluargasehat.R;
 
-/**
- * Created by Kuncoro on 22/03/2016.
- */
+
 public class Root extends Fragment {
 
     public Root(){}
@@ -22,7 +20,7 @@ public class Root extends Fragment {
 
         rootView = inflater.inflate(R.layout.root, container, false);
 
-        getActivity().setTitle("Kuncoro Nav Drawer");
+        getActivity().setTitle("Keluarga Sehat");
 
         return rootView;
     }

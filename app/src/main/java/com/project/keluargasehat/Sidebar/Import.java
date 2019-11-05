@@ -9,9 +9,7 @@ import android.widget.RelativeLayout;
 
 import com.project.keluargasehat.R;
 
-/**
- * Created by Kuncoro on 22/03/2016.
- */
+
 public class Import extends Fragment {
 
     public Import(){}
